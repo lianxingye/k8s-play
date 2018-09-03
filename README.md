@@ -4,6 +4,15 @@ This is a self tested way to deploy nginx, busybox and wordpress to local k8s en
 # Prerequisite
 A kubernetes environment and kubectl command is available locally to access the k8s cluster
 
+# My mac k8s environment steps
+1. I downloaded from here for my MacBook
+https://www.docker.com/products/docker-desktop
+2. After registering user/password, click the docker whael button in mission slot and choose preference.
+3. Then Kubernetes tab
+4. Enable Kubernetes, choose Kubernetes(not Swarm), click show system pods if you wish
+5. Wait for installation
+6. Done
+
 # How to play
 
 ### busybox.yaml
