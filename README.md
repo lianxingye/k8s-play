@@ -5,6 +5,7 @@ This is a self tested way to deploy nginx, busybox and wordpress to local k8s en
 A kubernetes environment and kubectl command is available locally to access the k8s cluster
 
 # My mac k8s environment steps
+And of course, you can rent a gcp or aws for an k8s environment. Or else, you can use VirtualBox or Vmware to start a local linux and install k8s step by step. But now for MAC the easist way is to install docker for mac and use it to install k8s with one mouse button click. Here are the steps.
 1. I downloaded from here for my MacBook
 https://www.docker.com/products/docker-desktop
 2. After registering user/password, click the docker whael button in mission slot and choose preference.
